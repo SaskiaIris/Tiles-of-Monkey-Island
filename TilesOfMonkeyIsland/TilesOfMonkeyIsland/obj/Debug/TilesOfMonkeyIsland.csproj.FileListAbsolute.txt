@@ -3,3 +3,9 @@ C:\Users\Stefan\Google Drive\DA & AI 2014-2015\ASSIGNMENT 6\TilesOfMonkeyIsland\
 C:\Users\Stefan\Google Drive\DA & AI 2014-2015\ASSIGNMENT 6\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\Pathfinding.pdb
 C:\Users\Stefan\Google Drive\DA & AI 2014-2015\ASSIGNMENT 6\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.exe
 C:\Users\Stefan\Google Drive\DA & AI 2014-2015\ASSIGNMENT 6\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.pdb
+D:\Gebruikers\Iris Oostra\Documenten\GitHub\tiles-of-monkey-island\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\TilesOfMonkeyIsland.csprojAssemblyReference.cache
+D:\Gebruikers\Iris Oostra\Documenten\GitHub\tiles-of-monkey-island\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\Pathfinding.exe
+D:\Gebruikers\Iris Oostra\Documenten\GitHub\tiles-of-monkey-island\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\Pathfinding.pdb
+D:\Gebruikers\Iris Oostra\Documenten\GitHub\tiles-of-monkey-island\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.exe.config
+D:\Gebruikers\Iris Oostra\Documenten\GitHub\tiles-of-monkey-island\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.exe
+D:\Gebruikers\Iris Oostra\Documenten\GitHub\tiles-of-monkey-island\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.pdb
