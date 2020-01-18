@@ -1,0 +1,5 @@
+C:\Users\Stefan\Google Drive\DA & AI 2014-2015\ASSIGNMENT 6\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.exe.config
+C:\Users\Stefan\Google Drive\DA & AI 2014-2015\ASSIGNMENT 6\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\Pathfinding.exe
+C:\Users\Stefan\Google Drive\DA & AI 2014-2015\ASSIGNMENT 6\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\Pathfinding.pdb
+C:\Users\Stefan\Google Drive\DA & AI 2014-2015\ASSIGNMENT 6\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.exe
+C:\Users\Stefan\Google Drive\DA & AI 2014-2015\ASSIGNMENT 6\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.pdb
